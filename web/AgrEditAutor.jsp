@@ -9,7 +9,7 @@
 <%@page import="java.util.*" %>
 <%@taglib  prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@include file = "cabecera.jsp"%>
-	<!-- pegar aca los jsp -->
+	<!-- pegar aca los jsp probado cambios-->
         
         
 
