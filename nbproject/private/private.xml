@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/entidades/Ciudad.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/test/pruebas.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/utildb/DBUtil.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/servicios/CiudadService.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/entidadesDAO/CiudadDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/entidadesDAO/PaisDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/entidadesDAO/AutorDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/web/ListaCiudades.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/entidades/Autor.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/entidadesDAO/EditorialDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/web/AgrEditCiudad.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/controladores/CiudadControlador.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/entidadesDAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/libroSoft/src/java/entidadesDAO/LibroDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
